@@ -11,6 +11,4 @@ File descriptions:
  - `CV_maxdepth_minchildweight.py`: GridSearchCV for optimal `max_depth` and `min_child_weight` parameters.
  - `means_eta.csv` and `means_maxdepth_minchildweight.csv`: Results of the grid searches.
  - `predict.py`: Python script to generate a submission file for the competition.
- - `pred.csv`: Resulting submission file.
- - `input`: Directory containing the competition data.
  - `img`: Directory containing visualizations of the grid search results for use in the notebook.
