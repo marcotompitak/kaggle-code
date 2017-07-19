@@ -5,7 +5,7 @@ Results of my exercise to learn XGBoost by applying it to the data from the [Zil
 
 File descriptions:
 
- - `Zillow.ipynb`: Jupyter notebook containing my main analysis and model construction. My GitHub Page contains a [static version](https://marcotompitak.github.io/kaggle-zillow/)
+ - `Zillow.ipynb`: Jupyter notebook containing my main analysis and model construction. [[static version](https://marcotompitak.github.io/kaggle-zillow/)]
  - `Zillow.html`: Static html version of the notebook.
  - `CV_eta.py`: Uses scikit-learn's GridSearchCV to find an optimal value for the learning rate.
  - `CV_maxdepth_minchildweight.py`: GridSearchCV for optimal `max_depth` and `min_child_weight` parameters.

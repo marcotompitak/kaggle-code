@@ -1,5 +1,5 @@
-XGBoost model for the Zillow Kaggle Competition
------------------------------------------------
+Kaggle Competition: Forecasting Wikipedia Page Traffic
+------------------------------------------------------
 
 Results of my exercise to apply [Facebook Prophet](https://facebookincubator.github.io/prophet/) to the data from the [Wikipedia Traffic Time Series Kaggle competition](https://www.kaggle.com/c/web-traffic-time-series-forecasting).
 
